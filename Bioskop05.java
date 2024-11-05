@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class test {
+public class Bioskop05 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String[][] penonton = new String[4][2];
